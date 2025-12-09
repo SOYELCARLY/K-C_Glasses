@@ -1,4 +1,23 @@
+html, body {
+    margin: 0;
+    font-family: system-ui, -apple-system,"Segoe UI", Roboto, Arial;
+    font-size: 16px;
+
+}
+
 .nav-bar {
     background-color: blue;
     color: aliceblue;
+}
+
+.card div{
+    max-width: 200px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10%;
+}
+
+.card img{
+    max-width: 100%;
+    border-radius: 10% 10% 0% 0%;
 }
