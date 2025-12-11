@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre" :"Animal Print Style",
+        "precio" : "49.000",
+        "imagen" : "/recursos/gafas1.png"
+    },
+    {
+        "id" : 2,
+        "nombre" : "Black Style" ,
+        "precio" : "49.000",
+        "imagen" : "/recursos/gafas2.png"
+    },
+    {
+        "id" : 3,
+        "nombre" : "Color Style" ,
+        "precio" : "30.500",
+        "imagen" : "/recursos/gafas3.png"
+    },
+    {
+        "id" : 4,
+        "nombre" : "Retro Style",
+        "precio" : "35.000",
+        "imagen" : "/recursos/gafas4.png"
+    }
+]
