@@ -99,12 +99,19 @@ html, body {
     background:#333;
     color: white;
     padding: 1rem 2rem;
+    position:relative;
+    height: 50px;
 }
 
 .nav-links {
     list-style: none;
     display: flex;
     gap: 1.5rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2rem;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .nav-links a {
@@ -118,4 +125,11 @@ html, body {
 .nav-links a:hover {
     color: orange;
     transform: translateY(-2px);
+}
+
+.logo img {
+    width: auto;
+    height:100px;
+    padding:0;
+    object-fit: contain;
 }
